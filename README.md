@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello 👋
+
+### I'm Andrey Souza
+
+Sales Engineer | MBA em Red Team | ISFS | ISMP | DCPT In Progress 
+
+:computer: I'm Sales Engineer focused in Cybersecurity solutions.
+
+:house_with_garden: I’m from Brazil.
+
+:books: I'm currently learning all about IT and Security.
