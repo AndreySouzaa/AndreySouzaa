@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Andrey Souza
 
-CyberSecurity Solutions Engineer | MBA em Red Team | ISFS | ISMP | DCPT In Progress 
+CyberSecurity Solutions Engineer | MBA in Red Team | ISFS | ISMP | DCPT In Progress 
 
 :computer: I'm CyberSecurity Solutions Engineer.
 
