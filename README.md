@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Sales Engineer | MBA em Red Team | ISFS | ISMP | DCPT In Progress 
 
-:computer: I'm Sales Engineer focused in Cybersecurity solutions.
+:computer: I'm CyberSecurity Solutions Engineer.
 
 :house_with_garden: I’m from Brazil.
 
