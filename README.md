@@ -52,7 +52,6 @@ This GitHub is my **public knowledge base**, where I document and share security
 ---
 
 ## 🔐 Focus areas
-
 - Defensive Security (EDR / EPP / XDR concepts)
 - Attack & Defense mindset (MITRE ATT&CK, TTPs)
 - Hands-on labs and security notes
