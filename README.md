@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Hello 👋
 
@@ -26,9 +26,9 @@ CyberSecurity Solutions Engineer | MBA in Red Team | ISFS | ISMP | DCPT In Progr
 :books: I'm currently learning all about IT and Security.
 
 ### Numbers
-<!--
+
 ![AndreySouzaa's Stats](https://github-readme-stats.vercel.app/api?username=AndreySouzaa&theme=darcula&show_icons=true&hide_border=true&count_private=tru)
--->
+
 
 ![AndreySouzaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreySouzaa&theme=darcula&hide_border=true)
 
@@ -38,3 +38,42 @@ CyberSecurity Solutions Engineer | MBA in Red Team | ISFS | ISMP | DCPT In Progr
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyvieiradesouza)
+
+
+
+-->
+
+# 👋 Hi, I'm Andrey Souza
+
+Cybersecurity professional focused on **defensive security, security engineering, and understanding attacker behavior**.
+
+This GitHub is my **public knowledge base**, where I document and share security concepts in a practical and vendor-agnostic way.
+
+---
+
+## 🔐 Focus areas
+
+- Defensive Security (EDR / EPP / XDR concepts)
+- Attack & Defense mindset (MITRE ATT&CK, TTPs)
+- Hands-on labs and security notes
+- Learning resources and references
+
+---
+
+## 🎯 Purpose
+
+To improve my own understanding of security problems and share **clear, practical content** with the community — serving as the foundation for future articles, videos, and courses.
+
+---
+
+## 🌍 Connect
+
+- 💼 LinkedIn: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyvieiradesouza)
+<!--
+- 🌐 Website:
+-->
+- 📩 Contact: contato@andreysouza.com.br
+
+> ⚠️ Educational and vendor-agnostic content only.
+
+
